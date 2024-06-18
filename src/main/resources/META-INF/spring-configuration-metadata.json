@@ -1,0 +1,29 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "wise.chat.file.cos.region",
+      "type": "java.lang.String",
+      "description": "COS Region.",
+      "sourceType": "chat.wise.file.cos.TCosProperties"
+    },
+    {
+      "name": "wise.chat.file.cos.secretId",
+      "type": "java.lang.String",
+      "description": "COS SecretId.",
+      "sourceType": "chat.wise.file.cos.TCosProperties"
+    },
+    {
+      "name": "wise.chat.file.cos.secretKey",
+      "type": "java.lang.String",
+      "description": "COS SecretKey.",
+      "sourceType": "chat.wise.file.cos.TCosProperties"
+    },
+    {
+      "name": "wise.chat.file.cos.sessionToken",
+      "type": "java.lang.String",
+      "description": "COS SessionToken.",
+      "sourceType": "chat.wise.file.cos.TCosProperties"
+    }
+  ]
+}
